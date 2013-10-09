@@ -11,13 +11,13 @@
 
 #if ANDROID
 PBL_APP_INFO(MY_UUID,
-             "Twilight-Clock", "KarbonPebbler,Boldo,Chad Harp",
+             "Twilight-Clock", "MichaelEhrmann,KarbonPebbler,Boldo,Chad Harp",
              2, 0, /* App version */
              RESOURCE_ID_IMAGE_MENU_ICON,
              APP_INFO_WATCH_FACE);
 # else
 PBL_APP_INFO(HTTP_UUID,
-             "Twilight-Clock", "KarbonPebbler,Boldo,Chad Harp",
+             "Twilight-Clock", "MichaelEhrmann,KarbonPebbler,Boldo,Chad Harp",
              2, 0, /* App version */
              RESOURCE_ID_IMAGE_MENU_ICON,
              APP_INFO_WATCH_FACE);
