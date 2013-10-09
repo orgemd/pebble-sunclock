@@ -1,4 +1,4 @@
-This is a Pebble watch face, originally created (to the best of my understanding) by MichaelEhrmann, and then updated by KarbonPebbler and Bob TheMadCow.  (My appologies if I have left out any other contributors.  If I have, please let me know.)  This version is a tweak of the updates posted by Bob TheMadCow.  The following is a list of the changes from Bob TheMadCow's version:
+This is a Pebble watch face, originally created (to the best of my understanding) by MichaelEhrmann, and then updated by KarbonPebbler, Boldo, Chad Harp, and Bob TheMadCow.  (My appologies if I have left out any other contributors.  If I have, please let me know.)  This version is a tweak of the updates posted by Bob TheMadCow.  The following is a list of the changes from Bob TheMadCow's version:
 
 1)  Moon phase is fixed so that it shows correctly.
 2)  The watch hand has been slimmed down so that it obscures less.
